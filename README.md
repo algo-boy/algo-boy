@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @algo-boy
-- 👀 I’m interested in game development, cybersecurity, and artificial intelligence
-- 🌱 I’m currently learning web development
-- 💞️ I’m looking to collaborate on a utility website
-- 📫 How to reach me ... maybe later
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I'm a first-year Computer Science major
-
-<!---
-algo-boy/algo-boy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div align="center">
+    <h2>👋 'Sup, bro!</h2>
+    I'm your friendly neighbor, <b>algo-boy</b>, a CS major from the Philippines with a burning passion and insatiable curiosity for technology!
+    <br>
+    <h2>🔧 Stack</h2>
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,vscode,lua,robloxstudio&perline=8"></img>
+    <br>
+    <h2>📊 Stats</h2>
+    <img height="200" src="https://github-readme-stats.vercel.app/api?username=algo-boy&theme=outrun&show_icons=true"/>
+    <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=algo-boy&layout=donut&theme=outrun"/>
+</div>
