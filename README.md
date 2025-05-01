@@ -1,9 +1,8 @@
 <div align="center">
     <h3>👋 'Sup, bro!</h3>
     <hr>
-    I'm your friendly neighbor, <b>algo-boy</b>, a CS major from the Philippines with a burning passion and insatiable curiosity for technology!<br>Yeahhh, so, I've been kinda getting into <b>ethical hacking</b> lately, but I'm a natural-born explorer, so...
-    <br><br><br>
-    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,vscode,lua,robloxstudio&perline=8"></img>
+    <br>
+    <img src="https://skillicons.dev/icons?i=python,c,html,css,linux,kali,bash,vscode,lua,robloxstudio&perline=8"></img>
     <br><br><br>
     <div>
         <img height="200" src="https://github-readme-stats.vercel.app/api?username=algo-boy&theme=outrun&show_icons=true"/>
